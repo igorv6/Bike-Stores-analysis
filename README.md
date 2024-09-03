@@ -106,5 +106,5 @@ The analysis results are summaried as follows:
 
 ### Recommendations
 Based on the analysis, the huge drop in sales and revenue for the three stores in 2018 needs urgent extensive analysis. inclluding other stores and analyzing the entire bicycle market to see if the trend is the same. Santa Cruz Bikes and Rowleet need to improve their attraction to customers. An analysis of their marketing activities is needed to see and implement new strategies for engagement with customers.
-Analyzing the products, the most sold product for each years is the Electra Amsterdam Bike, the three stores have to continue offering the Electra brand. While they should decide if keep to sell the brand whith less quantity sold and decide if is better replace them with another brand.
+Analyzing the products, the most sold product for each years is the Electra Amsterdam Bike, the three stores have to continue offering the Electra brand. While they should decide if keep to sell the brand whith less quantity sold and decide if is better replace them with another brand. Lastly,  the customers' favorite category is Cruisers this means that for 2016-2017-2018, customers want to ride a bike designed primarily for comfort and recreational use. 
 
